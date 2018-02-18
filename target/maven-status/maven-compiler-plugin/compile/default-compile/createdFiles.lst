@@ -1,0 +1,3 @@
+br/com/gds/hadoop/reducer/ContaHashTagsReducer.class
+br/com/gds/hadoop/driver/ContaHashTagsDriver.class
+br/com/gds/hadoop/map/ContaHashTagsMapper.class
